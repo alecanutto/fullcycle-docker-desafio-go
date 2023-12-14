@@ -6,7 +6,7 @@ O desafio consiste em publicar uma imagem no docker hub.
 
 Quando executarmos:
 
-docker run <seu-user>/fullcycle-docker-desafio-go
+`docker run <seu-user>/fullcycle-docker-desafio-go`
 
 Temos que ter o seguinte resultado: Code.education Rocks!
 
